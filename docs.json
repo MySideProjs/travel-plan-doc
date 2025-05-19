@@ -3,17 +3,17 @@
   "description": "My documentation site",
   "sidebar": [
   {
-    "group": "Getting Started",
+    "group": "Travel Plan Documentation",
     "pages": [
       {
-        "title": "Getting to know docs.page",
+        "title": "Home",
         "href": "/",
-        "icon": "rocket"
+        "icon": "home"
       },
       {
-        "title": "Next Steps",
-        "href": "/next-steps",
-        "icon": "arrow-right"
+        "title": "Privacy Policy",
+        "href": "/privacy-policy",
+        "icon": "book"
       }
     ]
   }
